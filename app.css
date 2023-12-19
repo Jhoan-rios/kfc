@@ -1,0 +1,61 @@
+.ligth{
+    background-color: #bbb;
+    color: #000;    
+}
+.ligth footer{
+    background-color: #dc3545;
+    color: #fff;
+}
+
+
+
+.dark
+{
+    background-color: #171718;
+    color: #fff;  
+}
+.dark .card{
+    background-color: #3c3c3c;
+    color: #fff;
+}
+
+.dark .btn-danger{
+    background-color: #ffc107;
+    border: #ffc107 1px solid;
+}
+.dark .btn-danger:hover{
+    background-color: #b88e13;
+    border: #b88e13 1px solid;
+}
+
+footer
+{
+    height: 100px;
+    align-content: center;
+}
+
+.dark footer
+{
+    background-color: #ffc107;
+}
+
+
+
+
+.cardtext-dark{
+    color: #fff;
+}
+.cardtitle-dark{
+    color: #fff;
+}
+.btn-danger{
+    width: 100%;
+}
+.btn-green{
+    background-color: green;
+    color: #fff;
+}
+.form-select{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
